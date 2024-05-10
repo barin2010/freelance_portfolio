@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/freelance_portfolio/static/css/main.7acaea2f.css",
-    "main.js": "/freelance_portfolio/static/js/main.f6cdf716.js",
+    "main.css": "/freelance_portfolio/static/css/main.5b96f305.css",
+    "main.js": "/freelance_portfolio/static/js/main.45a47e50.js",
+    "static/media/header-bg.png": "/freelance_portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/freelance_portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/freelance_portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/freelance_portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/instagram.svg": "/freelance_portfolio/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/freelance_portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/freelance_portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "index.html": "/freelance_portfolio/index.html",
-    "main.7acaea2f.css.map": "/freelance_portfolio/static/css/main.7acaea2f.css.map",
-    "main.f6cdf716.js.map": "/freelance_portfolio/static/js/main.f6cdf716.js.map"
+    "static/media/linkedIn.svg": "/freelance_portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "main.5b96f305.css.map": "/freelance_portfolio/static/css/main.5b96f305.css.map",
+    "main.45a47e50.js.map": "/freelance_portfolio/static/js/main.45a47e50.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.f6cdf716.js"
+    "static/css/main.5b96f305.css",
+    "static/js/main.45a47e50.js"
   ]
 }
